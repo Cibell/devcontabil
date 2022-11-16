@@ -10,11 +10,11 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/), instalei as
 
 # :computer: Tecnologias
 
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ - [Html](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ - [Css](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 # :pencil: Autor
 
